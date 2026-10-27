@@ -1,4 +1,4 @@
-"""pytorchexample: A Flower / PyTorch app."""
+"""pytorchexampleV2: A Flower / PyTorch app."""
 
 from datetime import datetime
 from pathlib import Path
@@ -7,8 +7,8 @@ import torch
 from flwr.app import ArrayRecord, ConfigRecord, Context, MetricRecord
 from flwr.serverapp import Grid, ServerApp
 
-from pytorchexample.custom_strategy import CustomFedAdagrad
-from pytorchexample.task import Net, load_centralized_dataset, test
+from pytorchexampleV2.custom_strategy import CustomFedAdagrad
+from pytorchexampleV2.task import Net, load_centralized_dataset, test
 
 
 # Create ServerApp

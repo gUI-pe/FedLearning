@@ -14,7 +14,7 @@ from flwr.serverapp.strategy.strategy_utils import log_strategy_start_info
 import pickle
 from dataclasses import asdict
 
-from pytorchexample.task import TrainProcessMetadata
+from pytorchexampleV2.task import TrainProcessMetadata
 
 PROJECT_NAME = "FLOWER-advanced-pytorch"
 

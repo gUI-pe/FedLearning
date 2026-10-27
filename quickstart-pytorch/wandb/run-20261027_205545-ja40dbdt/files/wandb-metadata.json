@@ -1,0 +1,39 @@
+{
+  "os":  "Linux-6.14.0-29-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2026-10-27T19:55:45.242658Z",
+  "args":  [
+    "--runtime-api-address",
+    "127.0.0.1:39091",
+    "--token",
+    "2a5b6e4b3bbff1cde43ed392542c9af4fa0f1cb45ac2340ae258b53fe765d21479f6ed6a6eb707ebc5e2e169065d18ed10a7c909fbd960a9c43f0d50b4544165dd34eaeb33d9d05c9f6f4c459c958e9e6cdf748d4a2e9897dc719b0779502e9baa84beed5598ee1d136eefe0ef79544a6f156588d224ac1b20dbc1a338a70fdd",
+    "--insecure",
+    "--parent-pid",
+    "234325",
+    "--allow-runtime-dependency-installation"
+  ],
+  "program":  "/home/guilherme/flower/bin/flwr-simulation",
+  "git":  {
+    "remote":  "https://github.com/gUI-pe/FedLearning.git",
+    "commit":  "46a17842a6679d43a993b4c9f9a41271dc7a68b8"
+  },
+  "email":  "guilherme.f.peruci@gmail.com",
+  "root":  "/home/guilherme/demo/projects/quickstart-pytorch",
+  "host":  "guilherme-550XED",
+  "executable":  "/home/guilherme/flower/bin/python3",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "110654689280",
+      "used":  "86767206400"
+    }
+  },
+  "memory":  {
+    "total":  "12226838528"
+  },
+  "cpu":  {
+    "model":  "12th Gen Intel(R) Core(TM) i5-1235U"
+  },
+  "writerId":  "01a17eee-dae0-7299-8730-be5666367e9d"
+}
