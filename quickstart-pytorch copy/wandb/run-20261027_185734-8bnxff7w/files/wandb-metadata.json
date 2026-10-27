@@ -1,0 +1,35 @@
+{
+  "os":  "Linux-6.14.0-29-generic-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2026-10-27T17:57:34.156020Z",
+  "args":  [
+    "--runtime-api-address",
+    "127.0.0.1:39091",
+    "--token",
+    "25586bdab6076ccffc46c882415755d0bcef11dfdfb6c2334c1a1f29d6f6977f7dd198f75d10491820978d06a3306d990fcef69fb64c430ce23b7cd1397ca3fd26c7c383d9da2411e9e61bd1d28189a290b7ebef883f360aca42c85e64249f30a53bd2d2ce40b399789e19fd6a47e5ddf47b2eff910646bec73436030e8c745f",
+    "--insecure",
+    "--parent-pid",
+    "234325",
+    "--allow-runtime-dependency-installation"
+  ],
+  "program":  "/home/guilherme/flower/bin/flwr-simulation",
+  "email":  "guilherme.f.peruci@gmail.com",
+  "root":  "/home/guilherme/demo/projects/quickstart-pytorch",
+  "host":  "guilherme-550XED",
+  "executable":  "/home/guilherme/flower/bin/python3",
+  "cpu_count":  10,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "110654689280",
+      "used":  "83477393408"
+    }
+  },
+  "memory":  {
+    "total":  "12226838528"
+  },
+  "cpu":  {
+    "model":  "12th Gen Intel(R) Core(TM) i5-1235U"
+  },
+  "writerId":  "01a17e82-a756-761e-a4f3-33ffc2604c78"
+}
